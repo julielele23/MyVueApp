@@ -1,0 +1,15 @@
+{
+    "name": "myvueapp",
+    "version": "0.1.0",
+    "dependencies": {
+        "vue": "3.3.4",
+        "core-js": "3.32.2",
+        "@vue/compiler-sfc": "3.3.4",
+        "@vue/cli-service": "5.0.8"
+    },
+    "scripts": {
+        "myscript": "vue-cli-service serve"
+
+    }
+    
+}
